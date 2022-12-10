@@ -2,7 +2,7 @@
 ## Introduction 
 * This xml editor was a team project for CSE331s for the Data strucures course in the Faculty of Engineering ASU.It applies various data strucures like stacks ,qeues,dynamic arrays,trees and Visualises The social network graph of an xml .
 ***
-## Featuers 
+## Features 
 ##### This program can
 * View, edit and save XML files. In addition, it has the ability to detect many errors in the XML file including missing tag terminator or in correct terminator .
 * Minify and format XML files.
